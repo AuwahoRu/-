@@ -1,0 +1,24 @@
+{
+    "User": [
+        {
+            "Artem_Masloy": [
+                {
+                    "type": "love",
+                    "message": 10,
+                    "time": 2,
+                    "con": true
+                }
+            ]
+        },
+        {
+            "Ivan_Petrov": [
+                {
+                    "type": "love",
+                    "message": 5,
+                    "time": 3,
+                    "con": false
+                }
+            ]
+        }
+    ]
+}
